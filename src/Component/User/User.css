@@ -1,0 +1,12 @@
+.mainSection {
+    display: flex;
+}
+.userSection {
+    width: 70%;
+    border-right: 1px solid gray;
+    text-align: center;
+}
+.cartSection{
+    width: 30%;
+    text-align: center;
+}
